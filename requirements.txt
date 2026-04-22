@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+langchain_community
+Pypdf
+beautifulsoup4
+arxiv
+pymupdf
+Wikipedia
+langchain_openai
+langchain-text-splitters
+langchain_openai
+groq
+sentence-transformers
+langchain_huggingface
