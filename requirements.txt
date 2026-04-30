@@ -13,4 +13,4 @@ groq
 sentence-transformers
 langchain_huggingface
 faiss-cpu
-OllamaEmbedding
+langsmith
