@@ -14,3 +14,4 @@ sentence-transformers
 langchain_huggingface
 faiss-cpu
 langsmith
+langchain-classic
