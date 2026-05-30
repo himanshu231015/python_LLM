@@ -23,4 +23,4 @@ langserve
 sse_starlette
 langchain_chroma
 grandalf
-ChatOpenAI
+langgraph
